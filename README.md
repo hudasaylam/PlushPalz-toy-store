@@ -19,7 +19,7 @@ Beautiful catalog, smooth navigation, and fun product details — all in one pla
 ## 📱  home example
 
 
-[Home Screen](screenshots/home.png)
+[Home Screen](images/home.png)
 
 
 ---
