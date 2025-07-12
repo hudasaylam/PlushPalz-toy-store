@@ -1,16 +1,34 @@
-# store_app
+# 🧸 PlushPalz Toy Store
 
-A new Flutter project.
+Welcome to PlushPalz!  
+A modern and simple Flutter app for browsing and discovering the cutest plush toys.  
+Beautiful catalog, smooth navigation, and fun product details — all in one place!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Stylish plush toy catalog with photos & prices
+- Product detail screens (image, description, price)
+- Responsive design for mobile devices
+- Smooth and simple navigation
+- Easy to add your own plushies!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱  home example
+
+
+[Home Screen](screenshots/home.png)
+
+
+---
+
+## 🛠️ Getting Started
+
+**Clone the repo & run:**
+```bash
+git clone https://github.com/hudasaylam/PlushPalz-toy-store.git
+cd PlushPalz-toy-store
+flutter pub get
+flutter run
